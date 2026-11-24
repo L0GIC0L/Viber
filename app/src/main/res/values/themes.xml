@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.Artifacts" parent="android:Theme.Material.NoActionBar" />
+</resources>
